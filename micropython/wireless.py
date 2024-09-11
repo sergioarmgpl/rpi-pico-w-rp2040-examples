@@ -9,7 +9,7 @@ from utime import sleep
 import urequests
 
 
-secrets = {"SSID":"waifai","PASSWORD":"demo123-"}
+secrets = {"SSID":"ssid","PASSWORD":"password"}
 ssid = secrets["SSID"]
 password = secrets["PASSWORD"]
 
